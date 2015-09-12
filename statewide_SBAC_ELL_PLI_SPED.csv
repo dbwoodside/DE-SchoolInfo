@@ -1,191 +1,191 @@
-District,School by Grade (* Does not include Special Schools),Type,ELA,Math,PLI,ELL,SpEd
-Academy of Dover,Academy of Dover,Charter,35.70%,25.90%,64.80%,1.40%,11.70%
-Appoquinimink,Appoquinimink High,Traditional,50.20%,38.10%,13.70%,1.30%,11.10%
-Appoquinimink,Brick Mill Elem,Traditional,69.70%,56.80%,23.30%,2.40%,10.40%
-Appoquinimink,Bunker Hill Elem,Traditional,64.70%,53.70%,14.20%,2.10%,9.80%
-Appoquinimink,Cedar Lane Elem,Traditional,65.80%,44.70%,8.10%,3.30%,8.10%
-Appoquinimink,Loss Elem,Traditional,84.60%,78.70%,6.60%,4.40%,7.20%
-Appoquinimink,Meredith Middle,Traditional,51.30%,37.30%,17.30%,0.30%,12.70%
-Appoquinimink,Middletown High,Traditional,75.10%,33.40%,9.60%,0.50%,10.80%
-Appoquinimink,Old State Elem,Traditional,62.40%,43.00%,11.50%,0.60%,10.90%
-Appoquinimink,Redding Middle,Traditional,50.40%,39.90%,19.40%,1.10%,13.10%
-Appoquinimink,Silver Lake Elem,Traditional,56.80%,41.70%,31.00%,4.40%,12.50%
-Appoquinimink,Townsend Elem,Traditional,57.40%,44.10%,25.00%,0.90%,16.90%
-Appoquinimink,Waters Middle,Traditional,66.00%,58.50%,7.20%,0.30%,11.60%
-ASPIRA,ASPIRA Academy,Charter,51.00%,40.70%,25.00%,30.30%,5.70%
-Brandywine,Brandywine High,Traditional,47.60%,18.20%,27.20%,1.90%,13.90%
-Brandywine,Carrcroft Elem,Traditional,45.30%,41.70%,40.30%,2.20%,10.20%
-Brandywine,Claymont Elem,Traditional,62.60%,57.90%,41.30%,9.00%,14.20%
-Brandywine,Concord High,Traditional,61.50%,30.00%,18.20%,1.30%,7.30%
-Brandywine,Forwood Elem,Traditional,56.60%,41.10%,23.80%,9.00%,9.20%
-Brandywine,Hanby Elem,Traditional,62.70%,56.80%,23.00%,5.20%,12.10%
-Brandywine,Harlan Elem,Traditional,30.40%,22.10%,60.30%,3.30%,15.80%
-Brandywine,Lancashire Elem,Traditional,65.90%,63.20%,22.90%,7.30%,8.90%
-Brandywine,Lombardy Elem,Traditional,63.40%,53.80%,28.70%,4.30%,10.70%
-Brandywine,Maple Lane Elem,Traditional,41.00%,41.00%,42.60%,10.70%,10.30%
-Brandywine,Mount Pleasant High,Traditional,65.70%,34.70%,25.10%,1.70%,11.30%
-Brandywine,Mount Pleasant Elem,Traditional,46.70%,41.70%,33.20%,3.70%,12.00%
-Brandywine,P. S. duPont Middle,Traditional,57.20%,42.50%,31.40%,0.80%,17.40%
-Brandywine,Springer Middle,Traditional,56.60%,42.20%,23.50%,0.90%,15.20%
-Brandywine,Talley Middle,Traditional,42.10%,26.00%,32.40%,1.50%,14.00%
-Caesar Rodney,Brown Elem,Traditional,47.10%,40.60%,56.70%,3.60%,24.80%
-Caesar Rodney,Caesar Rodney High,Traditional,55.20%,26.70%,24.70%,1.90%,11.20%
-Caesar Rodney,DAFB Middle,Traditional,83.90%,66.80%,5.30%,0.00%,10.10%
-Caesar Rodney,Fifer Middle,Traditional,57.60%,37.10%,38.10%,1.50%,13.70%
-Caesar Rodney,Frear Elem,Traditional,69.10%,59.80%,33.30%,2.90%,9.20%
-Caesar Rodney,McIlvaine Elem,Traditional,,,40.50%,0.00%,14.90%
-Caesar Rodney,Postlethwait Middle,Traditional,60.20%,44.90%,28.00%,1.10%,12.10%
-Caesar Rodney,Simpson Elem,Traditional,73.00%,56.70%,36.30%,2.00%,6.10%
-Caesar Rodney,Star Hill Elem,Traditional,75.00%,68.20%,29.70%,2.60%,9.30%
-Caesar Rodney,Stokes Elem,Traditional,63.10%,57.60%,42.10%,9.00%,10.20%
-Caesar Rodney,Welch Elem,Traditional,80.80%,65.10%,4.40%,1.60%,4.80%
-Campus Community,Campus Community,Charter,61.90%,36.90%,38.30%,1.50%,8.30%
-Cape Henlopen,Beacon Middle,Traditional,69.30%,64.60%,31.10%,1.80%,16.00%
-Cape Henlopen,Brittingham Elem,Traditional,41.20%,37.50%,58.10%,14.40%,11.70%
-Cape Henlopen,Cape Henlopen High,Traditional,39.10%,20.40%,29.00%,2.10%,18.60%
-Cape Henlopen,Mariner Middle,Traditional,60.20%,42.50%,35.10%,1.80%,19.60%
-Cape Henlopen,Milton Elem,Traditional,62.70%,52.60%,29.20%,5.00%,14.70%
-Cape Henlopen,Rehoboth Elem,Traditional,72.50%,62.30%,36.20%,5.20%,8.60%
-Cape Henlopen,Shields Elem,Traditional,78.40%,75.10%,27.10%,2.40%,9.00%
-Capital,Booker T. Washington Elem,Traditional,65.20%,51.00%,53.30%,3.10%,19.50%
-Capital,Central Middle,Traditional,45.50%,25.60%,49.00%,1.80%,17.40%
-Capital,Dover High,Traditional,40.80%,7.60%,38.80%,2.50%,16.10%
-Capital,East Dover Elem,Traditional,41.40%,38.10%,62.40%,11.90%,21.80%
-Capital,Fairview Elem,Traditional,50.00%,35.10%,56.10%,5.90%,16.50%
-Capital,Hartly Elem,Traditional,80.70%,73.30%,33.30%,3.80%,9.70%
-Capital,North Dover Elem,Traditional,67.50%,55.20%,49.90%,5.70%,8.50%
-Capital,South Dover Elem,Traditional,52.30%,40.30%,61.20%,5.10%,11.30%
-Capital,Towne Point Elem,Traditional,58.30%,35.30%,62.30%,3.50%,9.40%
-Capital,William Henry Middle,Traditional,40.70%,23.80%,50.60%,2.90%,17.50%
-Christina,Bancroft Elem,Traditional,11.00%,6.20%,80.50%,1.70%,24.20%
-Christina,Bayard Middle,Traditional,9.30%,3.20%,78.20%,5.80%,27.20%
-Christina,Brader Elem,Traditional,43.80%,41.30%,34.60%,3.20%,20.70%
-Christina,Brookside Elem,Traditional,43.40%,42.20%,57.00%,12.80%,16.20%
-Christina,Christiana High,Traditional,39.10%,7.60%,34.40%,5.50%,22.40%
-Christina,Downes Elem,Traditional,70.70%,63.70%,29.50%,3.60%,10.10%
-Christina,Elbert?Palmer Elem,Traditional,12.60%,14.30%,83.30%,1.20%,19.50%
-Christina,Gallaher Elem,Traditional,54.80%,48.00%,38.50%,9.70%,8.70%
-Christina,Gauger?Cobbs Middle,Traditional,24.40%,15.20%,33.90%,2.70%,19.10%
-Christina,Glasgow High,Traditional,29.90%,6.10%,35.10%,4.00%,17.50%
-Christina,Jones Elem,Traditional,48.00%,43.40%,44.70%,7.20%,13.30%
-Christina,Keene Elem,Traditional,48.00%,40.90%,33.40%,5.80%,11.10%
-Christina,Kirk Middle,Traditional,35.60%,25.40%,34.60%,3.80%,18.70%
-Christina,Leasure Elem,Traditional,45.40%,40.60%,38.20%,3.60%,12.80%
-Christina,Maclary Elem,Traditional,50.60%,48.40%,35.20%,11.00%,19.50%
-Christina,Marshall Elem,Traditional,70.60%,66.70%,20.00%,8.50%,6.90%
-Christina,McVey Elem,Traditional,33.20%,31.30%,45.50%,9.80%,12.70%
-Christina,Newark High,Traditional,38.30%,25.00%,31.10%,4.00%,13.80%
-Christina,Oberle Elem,Traditional,19.70%,22.00%,55.40%,34.80%,8.30%
-Christina,Pulaski Elem,Traditional,24.60%,24.80%,75.80%,33.60%,14.80%
-Christina,Shue?Medill Middle,Traditional,36.80%,25.20%,34.00%,4.90%,16.00%
-Christina,Smith Elem,Traditional,45.50%,31.40%,43.10%,10.60%,8.20%
-Christina,Stubbs Elem,Traditional,8.10%,7.10%,86.50%,3.50%,11.60%
-Christina,West Park Place Elem,Traditional,64.40%,61.70%,31.30%,16.30%,12.20%
-Christina,Wilson Elem,Traditional,49.10%,51.90%,37.30%,32.00%,14.40%
-Colonial,Bedford Middle,Traditional,49.60%,28.20%,24.40%,1.90%,10.00%
-Colonial,Castle Hills Elem,Traditional,45.00%,36.00%,55.00%,17.30%,8.10%
-Colonial,Downie Elem,Traditional,41.80%,34.30%,47.20%,20.60%,7.60%
-Colonial,Eisenberg Elem,Traditional,35.90%,27.70%,60.50%,18.60%,11.50%
-Colonial,McCullough Middle,Traditional,33.00%,15.90%,51.60%,7.30%,13.50%
-Colonial,New Castle Elem,Traditional,45.40%,39.00%,57.70%,17.20%,9.60%
-Colonial,Penn High,Traditional,54.90%,10.10%,32.40%,5.10%,15.10%
-Colonial,Pleasantville Elem,Traditional,53.70%,43.40%,44.80%,13.00%,12.20%
-Colonial,Read Middle,Traditional,51.90%,22.40%,39.00%,4.50%,22.10%
-Colonial,Southern Elem,Traditional,50.90%,44.00%,38.00%,4.80%,20.30%
-Colonial,Wilbur Elem,Traditional,62.40%,49.80%,31.10%,6.30%,6.80%
-Colonial,Wilmington Manor Elem,Traditional,47.30%,43.80%,45.80%,22.10%,7.00%
-DAPSS,DAPSS,Charter,20.60%,7.40%,27.00%,3.30%,16.50%
-Delmar,Delmar High,Traditional,66.90%,39.00%,14.60%,5.30%,10.00%
-Delmar,Delmar Middle,Traditional,55.20%,41.50%,16.30%,5.40%,8.20%
-East Side Charter,East Side Charter,Charter,19.90%,23.40%,77.30%,4.10%,14.80%
-Family Foundations,Family Foundations,Charter,36.50%,28.90%,44.40%,1.80%,5.30%
-Gateway Charter,Gateway Lab School,Charter,15.40%,4.80%,20.80%,0.90%,59.90%
-Indian River,East Millsboro Elem,Traditional,62.40%,53.70%,41.40%,5.80%,9.00%
-Indian River,Georgetown Elem,Traditional,54.20%,41.70%,54.50%,35.80%,17.80%
-Indian River,Georgetown Middle,Traditional,48.70%,34.30%,44.40%,6.50%,14.60%
-Indian River,Indian River High,Traditional,60.50%,27.00%,27.80%,2.20%,16.60%
-Indian River,John Clayton Elem,Traditional,60.00%,51.00%,58.50%,22.60%,20.90%
-Indian River,Long Neck Elem,Traditional,71.80%,64.60%,52.80%,7.70%,13.90%
-Indian River,Lord Baltimore Elem,Traditional,76.10%,63.50%,28.40%,2.10%,11.50%
-Indian River,Millsboro Middle,Traditional,53.80%,38.30%,41.00%,1.70%,14.60%
-Indian River,North Georgetown Elem,Traditional,41.80%,32.20%,52.50%,49.70%,13.40%
-Indian River,Selbyville Middle,Traditional,62.00%,37.20%,33.80%,1.50%,14.40%
-Indian River,Showell Elem,Traditional,55.40%,47.50%,46.00%,12.50%,16.70%
-Indian River,Southern Delaware School of the Arts,Traditional,89.30%,76.10%,18.40%,3.10%,5.60%
-Indian River,Sussex Central High,Traditional,38.60%,15.80%,36.60%,8.40%,13.80%
-Kuumba Academy,Kuumba Academy,Charter,44.60%,39.90%,58.00%,0.90%,6.30%
-Lake Forest,Lake Forest Central Elem,Traditional,59.40%,49.50%,44.80%,2.30%,14.10%
-Lake Forest,Lake Forest East Elem,Traditional,65.50%,60.20%,52.00%,5.60%,9.50%
-Lake Forest,Lake Forest High,Traditional,61.60%,21.30%,35.00%,0.70%,13.60%
-Lake Forest,Lake Forest North Elem,Traditional,73.50%,65.80%,41.70%,1.00%,11.20%
-Lake Forest,Lake Forest South Elem,Traditional,62.60%,65.50%,55.00%,2.10%,14.80%
-Lake Forest,W T Chipman Middle,Traditional,51.70%,38.70%,39.20%,0.70%,17.60%
-Laurel,Dunbar Elem,Traditional,,,63.20%,6.80%,7.30%
-Laurel,Laurel  High,Traditional,46.00%,5.60%,44.80%,3.00%,21.10%
-Laurel,Laurel Intermediate Middle,Traditional,28.80%,14.10%,51.00%,2.70%,15.90%
-Laurel,North Laurel Elem,Traditional,35.40%,33.60%,55.70%,10.20%,13.80%
-Milford,Banneker Elem,Traditional,61.00%,55.10%,52.00%,14.50%,14.70%
-Milford,Central Academy,Traditional,46.60%,36.20%,41.30%,4.50%,14.10%
-Milford,Milford High,Traditional,43.10%,19.40%,32.80%,5.30%,13.10%
-Milford,Mispillion Elem,Traditional,47.40%,38.70%,52.20%,11.90%,10.70%
-Milford,Ross Elem,Traditional,55.50%,44.30%,47.70%,15.90%,11.80%
-Montessori Academy,Montessori Academy,Charter,57.40%,41.10%,10.00%,1.80%,5.40%
-MOT Charter,MOT Charter,Charter,75.40%,71.10%,5.90%,1.60%,6.10%
-Moyer Academy,Moyer Academy,Charter,8.30%,1.40%,73.10%,2.40%,29.80%
-NCC VoTech,Delcastle Tech High,VoTech,54.60%,17.70%,29.20%,4.80%,14.40%
-NCC VoTech,Hodgson VoTech High,VoTech,39.20%,10.20%,23.80%,2.60%,11.90%
-NCC VoTech,Howard HS of Tech,VoTech,53.60%,13.30%,43.40%,2.90%,9.80%
-NCC VoTech,St. Georges HS of Tech,VoTech,57.30%,19.20%,11.60%,0.80%,12.50%
-Newark Charter,Newark Charter,Charter,93.10%,84.10%,7.20%,2.50%,5.60%
-Odyssey Charter,Odyssey Charter,Charter,77.70%,69.50%,17.90%,0.40%,4.40%
-Polytech,POLYTECH High,VoTech,77.80%,29.80%,15.70%,0.30%,9.10%
-Positive Outcomes,Positive Outcomes,Charter,15.70%,2.00%,31.70%,0.00%,65.90%
-Prestige Academy,Prestige Academy,Charter,17.60%,13.40%,58.10%,1.20%,22.00%
-Providence Creek,Providence Creek,Charter,66.00%,43.30%,18.30%,0.60%,5.10%
-Reach Academy,Reach Academy,Charter,31.20%,17.00%,55.20%,1.60%,6.40%
-Red Clay,A I duPont High,Traditional,39.20%,16.10%,33.50%,6.20%,14.60%
-Red Clay,A I duPont Middle,Traditional,14.00%,9.50%,61.50%,15.60%,18.90%
-Red Clay,Baltz Elem,Traditional,27.20%,17.00%,58.10%,29.50%,7.40%
-Red Clay,Brandywine Springs,Traditional,73.10%,63.90%,9.00%,1.00%,7.80%
-Red Clay,Calloway School of the Arts,Traditional,79.30%,55.50%,6.80%,0.20%,2.20%
-Red Clay,Charter School of Wilmington,Traditional,97.50%,96.30%,2.30%,0.10%,0.20%
-Red Clay,Conrad Schools of Science,Traditional,54.90%,55.40%,14.30%,8.20%,3.20%
-Red Clay,Delaware College Preparatory Academy,Traditional,5.80%,7.50%,77.80%,0.50%,2.50%
-Red Clay,Delaware Military Academy,Traditional,54.00%,27.60%,6.90%,0.20%,3.00%
-Red Clay,Dickinson High,Traditional,39.70%,13.80%,41.30%,7.80%,19.40%
-Red Clay,Forest Oak Elem,Traditional,47.10%,45.60%,37.20%,9.80%,5.90%
-Red Clay,H B duPont Middle,Traditional,49.00%,39.10%,36.70%,4.00%,13.00%
-Red Clay,Heritage Elem,Traditional,64.10%,43.10%,22.10%,2.80%,6.90%
-Red Clay,Highlands Elem,Traditional,29.50%,17.90%,65.20%,11.10%,12.50%
-Red Clay,Lewis Dual Language Elem,Traditional,30.90%,26.00%,73.20%,59.00%,7.00%
-Red Clay,Linden Hill Elem,Traditional,77.60%,72.40%,9.90%,11.50%,5.10%
-Red Clay,Marbrook Elem,Traditional,38.10%,26.80%,51.40%,48.20%,9.50%
-Red Clay,McKean High,Traditional,25.30%,2.70%,42.80%,7.00%,20.40%
-Red Clay,Mote Elem,Traditional,38.20%,25.40%,52.20%,45.10%,7.10%
-Red Clay,North Star Elem,Traditional,87.50%,77.10%,3.80%,5.30%,3.80%
-Red Clay,Richardson Park Elem,Traditional,32.80%,18.30%,61.40%,13.40%,10.90%
-Red Clay,Richey Elem,Traditional,44.40%,34.50%,39.30%,6.70%,9.40%
-Red Clay,Shortlidge Elem,Traditional,20.90%,15.70%,81.00%,0.60%,14.90%
-Red Clay,Skyline Middle,Traditional,57.70%,39.50%,27.60%,2.50%,9.80%
-Red Clay,Stanton Middle,Traditional,18.20%,13.40%,49.50%,7.80%,16.60%
-Red Clay,Warner Elem,Traditional,13.40%,10.60%,82.60%,5.10%,14.20%
-Seaford,Blades Elem,Traditional,44.80%,34.90%,62.40%,16.30%,13.00%
-Seaford,Frederick Douglass Elem,Traditional,42.60%,35.10%,57.90%,15.30%,22.00%
-Seaford,Seaford Central Elem,Traditional,48.50%,45.00%,42.50%,8.10%,17.70%
-Seaford,Seaford High,Traditional,24.80%,4.30%,44.10%,6.50%,17.70%
-Seaford,Seaford Middle,Traditional,35.10%,21.30%,52.20%,5.70%,20.60%
-Seaford,West Seaford Elem,Traditional,29.20%,20.70%,65.30%,17.60%,9.80%
-Smyrna,Clayton Elem,Traditional,68.70%,61.90%,29.90%,1.30%,9.30%
-Smyrna,Clayton Intermediate School,Traditional,59.50%,54.90%,21.70%,0.60%,10.50%
-Smyrna,J Bassett Moore School,Traditional,51.30%,36.80%,36.00%,0.50%,20.60%
-Smyrna,North Smyrna Elem,Traditional,46.90%,39.10%,41.60%,2.80%,27.00%
-Smyrna,Smyrna Elem,Traditional,61.90%,53.60%,30.10%,2.50%,11.30%
-Smyrna,Smyrna High,Traditional,37.50%,14.20%,23.10%,0.70%,13.90%
-Smyrna,Smyrna Middle,Traditional,55.20%,33.40%,25.60%,0.30%,16.40%
-Smyrna,Sunnyside Elem,Traditional,76.40%,63.70%,21.60%,1.70%,8.00%
-Sussex Academy,Sussex Academy,Charter,95.60%,73.90%,7.80%,0.50%,3.60%
-Sussex Tech,Sussex Tech High,VoTech,73.30%,36.00%,19.60%,0.40%,6.90%
-Thomas Edison Charter,Thomas Edison Charter,Charter,33.70%,20.90%,76.20%,0.40%,7.10%
-Woodbridge,Phillis Wheatley Elem,Traditional,42.00%,41.50%,50.70%,12.00%,9.50%
-Woodbridge,Woodbridge High,Traditional,13.30%,8.00%,43.10%,3.80%,18.20%
-Woodbridge,Woodbridge Middle,Traditional,30.60%,21.40%,52.30%,3.80%,14.50%
+District,School by Grade (* Does not include Special Schools),Type,Grade level,ELA,Math,PLI,ELL,SpEd
+Academy of Dover,Academy of Dover,Charter,,35.70%,25.90%,64.80%,1.40%,11.70%
+Appoquinimink,Appoquinimink High,Traditional,High,50.20%,38.10%,13.70%,1.30%,11.10%
+Appoquinimink,Brick Mill Elem,Traditional,Elem,69.70%,56.80%,23.30%,2.40%,10.40%
+Appoquinimink,Bunker Hill Elem,Traditional,Elem,64.70%,53.70%,14.20%,2.10%,9.80%
+Appoquinimink,Cedar Lane Elem,Traditional,Elem,65.80%,44.70%,8.10%,3.30%,8.10%
+Appoquinimink,Loss Elem,Traditional,Elem,84.60%,78.70%,6.60%,4.40%,7.20%
+Appoquinimink,Meredith Middle,Traditional,Middle,51.30%,37.30%,17.30%,0.30%,12.70%
+Appoquinimink,Middletown High,Traditional,High,75.10%,33.40%,9.60%,0.50%,10.80%
+Appoquinimink,Old State Elem,Traditional,Elem,62.40%,43.00%,11.50%,0.60%,10.90%
+Appoquinimink,Redding Middle,Traditional,Middle,50.40%,39.90%,19.40%,1.10%,13.10%
+Appoquinimink,Silver Lake Elem,Traditional,Elem,56.80%,41.70%,31.00%,4.40%,12.50%
+Appoquinimink,Townsend Elem,Traditional,Elem,57.40%,44.10%,25.00%,0.90%,16.90%
+Appoquinimink,Waters Middle,Traditional,High,66.00%,58.50%,7.20%,0.30%,11.60%
+ASPIRA,ASPIRA Academy,Charter,,51.00%,40.70%,25.00%,30.30%,5.70%
+Brandywine,Brandywine High,Traditional,High,47.60%,18.20%,27.20%,1.90%,13.90%
+Brandywine,Carrcroft Elem,Traditional,Elem,45.30%,41.70%,40.30%,2.20%,10.20%
+Brandywine,Claymont Elem,Traditional,Elem,62.60%,57.90%,41.30%,9.00%,14.20%
+Brandywine,Concord High,Traditional,High,61.50%,30.00%,18.20%,1.30%,7.30%
+Brandywine,Forwood Elem,Traditional,Elem,56.60%,41.10%,23.80%,9.00%,9.20%
+Brandywine,Hanby Elem,Traditional,Elem,62.70%,56.80%,23.00%,5.20%,12.10%
+Brandywine,Harlan Elem,Traditional,Elem,30.40%,22.10%,60.30%,3.30%,15.80%
+Brandywine,Lancashire Elem,Traditional,Elem,65.90%,63.20%,22.90%,7.30%,8.90%
+Brandywine,Lombardy Elem,Traditional,Elem,63.40%,53.80%,28.70%,4.30%,10.70%
+Brandywine,Maple Lane Elem,Traditional,Elem,41.00%,41.00%,42.60%,10.70%,10.30%
+Brandywine,Mount Pleasant Elem,Traditional,Elem,46.70%,41.70%,33.20%,3.70%,12.00%
+Brandywine,Mount Pleasant High,Traditional,High,65.70%,34.70%,25.10%,1.70%,11.30%
+Brandywine,P. S. duPont Middle,Traditional,Middle,57.20%,42.50%,31.40%,0.80%,17.40%
+Brandywine,Springer Middle,Traditional,Middle,56.60%,42.20%,23.50%,0.90%,15.20%
+Brandywine,Talley Middle,Traditional,Middle,42.10%,26.00%,32.40%,1.50%,14.00%
+Caesar Rodney,Brown Elem,Traditional,Elem,47.10%,40.60%,56.70%,3.60%,24.80%
+Caesar Rodney,Caesar Rodney High,Traditional,High,55.20%,26.70%,24.70%,1.90%,11.20%
+Caesar Rodney,DAFB Middle,Traditional,Middle,83.90%,66.80%,5.30%,0.00%,10.10%
+Caesar Rodney,Fifer Middle,Traditional,Middle,57.60%,37.10%,38.10%,1.50%,13.70%
+Caesar Rodney,Frear Elem,Traditional,Elem,69.10%,59.80%,33.30%,2.90%,9.20%
+Caesar Rodney,McIlvaine Elem,Traditional,Elem,,,40.50%,0.00%,14.90%
+Caesar Rodney,Postlethwait Middle,Traditional,Middle,60.20%,44.90%,28.00%,1.10%,12.10%
+Caesar Rodney,Simpson Elem,Traditional,Elem,73.00%,56.70%,36.30%,2.00%,6.10%
+Caesar Rodney,Star Hill Elem,Traditional,Elem,75.00%,68.20%,29.70%,2.60%,9.30%
+Caesar Rodney,Stokes Elem,Traditional,Elem,63.10%,57.60%,42.10%,9.00%,10.20%
+Caesar Rodney,Welch Elem,Traditional,Elem,80.80%,65.10%,4.40%,1.60%,4.80%
+Campus Community,Campus Community,Charter,,61.90%,36.90%,38.30%,1.50%,8.30%
+Cape Henlopen,Beacon Middle,Traditional,Middle,69.30%,64.60%,31.10%,1.80%,16.00%
+Cape Henlopen,Brittingham Elem,Traditional,Elem,41.20%,37.50%,58.10%,14.40%,11.70%
+Cape Henlopen,Cape Henlopen High,Traditional,High,39.10%,20.40%,29.00%,2.10%,18.60%
+Cape Henlopen,Mariner Middle,Traditional,Middle,60.20%,42.50%,35.10%,1.80%,19.60%
+Cape Henlopen,Milton Elem,Traditional,Elem,62.70%,52.60%,29.20%,5.00%,14.70%
+Cape Henlopen,Rehoboth Elem,Traditional,Elem,72.50%,62.30%,36.20%,5.20%,8.60%
+Cape Henlopen,Shields Elem,Traditional,Elem,78.40%,75.10%,27.10%,2.40%,9.00%
+Capital,Booker T. Washington Elem,Traditional,Elem,65.20%,51.00%,53.30%,3.10%,19.50%
+Capital,Central Middle,Traditional,Middle,45.50%,25.60%,49.00%,1.80%,17.40%
+Capital,Dover High,Traditional,High,40.80%,7.60%,38.80%,2.50%,16.10%
+Capital,East Dover Elem,Traditional,Elem,41.40%,38.10%,62.40%,11.90%,21.80%
+Capital,Fairview Elem,Traditional,Elem,50.00%,35.10%,56.10%,5.90%,16.50%
+Capital,Hartly Elem,Traditional,Elem,80.70%,73.30%,33.30%,3.80%,9.70%
+Capital,North Dover Elem,Traditional,Elem,67.50%,55.20%,49.90%,5.70%,8.50%
+Capital,South Dover Elem,Traditional,Elem,52.30%,40.30%,61.20%,5.10%,11.30%
+Capital,Towne Point Elem,Traditional,Elem,58.30%,35.30%,62.30%,3.50%,9.40%
+Capital,William Henry Middle,Traditional,Middle,40.70%,23.80%,50.60%,2.90%,17.50%
+Christina,Bancroft Elem,Traditional,Elem,11.00%,6.20%,80.50%,1.70%,24.20%
+Christina,Bayard Middle,Traditional,Middle,9.30%,3.20%,78.20%,5.80%,27.20%
+Christina,Brader Elem,Traditional,Elem,43.80%,41.30%,34.60%,3.20%,20.70%
+Christina,Brookside Elem,Traditional,Elem,43.40%,42.20%,57.00%,12.80%,16.20%
+Christina,Christiana High,Traditional,High,39.10%,7.60%,34.40%,5.50%,22.40%
+Christina,Downes Elem,Traditional,Elem,70.70%,63.70%,29.50%,3.60%,10.10%
+Christina,Elbert-Palmer Elem,Traditional,Elem,12.60%,14.30%,83.30%,1.20%,19.50%
+Christina,Gallaher Elem,Traditional,Elem,54.80%,48.00%,38.50%,9.70%,8.70%
+Christina,Gauger-Cobbs Middle,Traditional,Middle,24.40%,15.20%,33.90%,2.70%,19.10%
+Christina,Glasgow High,Traditional,High,29.90%,6.10%,35.10%,4.00%,17.50%
+Christina,Jones Elem,Traditional,Elem,48.00%,43.40%,44.70%,7.20%,13.30%
+Christina,Keene Elem,Traditional,Elem,48.00%,40.90%,33.40%,5.80%,11.10%
+Christina,Kirk Middle,Traditional,Middle,35.60%,25.40%,34.60%,3.80%,18.70%
+Christina,Leasure Elem,Traditional,Elem,45.40%,40.60%,38.20%,3.60%,12.80%
+Christina,Maclary Elem,Traditional,Elem,50.60%,48.40%,35.20%,11.00%,19.50%
+Christina,Marshall Elem,Traditional,Elem,70.60%,66.70%,20.00%,8.50%,6.90%
+Christina,McVey Elem,Traditional,Elem,33.20%,31.30%,45.50%,9.80%,12.70%
+Christina,Newark High,Traditional,High,38.30%,25.00%,31.10%,4.00%,13.80%
+Christina,Oberle Elem,Traditional,Elem,19.70%,22.00%,55.40%,34.80%,8.30%
+Christina,Pulaski Elem,Traditional,Elem,24.60%,24.80%,75.80%,33.60%,14.80%
+Christina,Shue?Medill Middle,Traditional,Middle,36.80%,25.20%,34.00%,4.90%,16.00%
+Christina,Smith Elem,Traditional,Elem,45.50%,31.40%,43.10%,10.60%,8.20%
+Christina,Stubbs Elem,Traditional,Elem,8.10%,7.10%,86.50%,3.50%,11.60%
+Christina,West Park Place Elem,Traditional,Elem,64.40%,61.70%,31.30%,16.30%,12.20%
+Christina,Wilson Elem,Traditional,Elem,49.10%,51.90%,37.30%,32.00%,14.40%
+Colonial,Bedford Middle,Traditional,Middle,49.60%,28.20%,24.40%,1.90%,10.00%
+Colonial,Castle Hills Elem,Traditional,Elem,45.00%,36.00%,55.00%,17.30%,8.10%
+Colonial,Downie Elem,Traditional,Elem,41.80%,34.30%,47.20%,20.60%,7.60%
+Colonial,Eisenberg Elem,Traditional,Elem,35.90%,27.70%,60.50%,18.60%,11.50%
+Colonial,McCullough Middle,Traditional,Middle,33.00%,15.90%,51.60%,7.30%,13.50%
+Colonial,New Castle Elem,Traditional,Elem,45.40%,39.00%,57.70%,17.20%,9.60%
+Colonial,Penn High,Traditional,High,54.90%,10.10%,32.40%,5.10%,15.10%
+Colonial,Pleasantville Elem,Traditional,Elem,53.70%,43.40%,44.80%,13.00%,12.20%
+Colonial,Read Middle,Traditional,Middle,51.90%,22.40%,39.00%,4.50%,22.10%
+Colonial,Southern Elem,Traditional,Elem,50.90%,44.00%,38.00%,4.80%,20.30%
+Colonial,Wilbur Elem,Traditional,Elem,62.40%,49.80%,31.10%,6.30%,6.80%
+Colonial,Wilmington Manor Elem,Traditional,Elem,47.30%,43.80%,45.80%,22.10%,7.00%
+DAPSS,DAPSS,Charter,,20.60%,7.40%,27.00%,3.30%,16.50%
+Delmar,Delmar High,Traditional,High,66.90%,39.00%,14.60%,5.30%,10.00%
+Delmar,Delmar Middle,Traditional,Middle,55.20%,41.50%,16.30%,5.40%,8.20%
+East Side Charter,East Side Charter,Charter,,19.90%,23.40%,77.30%,4.10%,14.80%
+Family Foundations,Family Foundations,Charter,,36.50%,28.90%,44.40%,1.80%,5.30%
+Gateway Charter,Gateway Lab School,Charter,,15.40%,4.80%,20.80%,0.90%,59.90%
+Indian River,East Millsboro Elem,Traditional,Elem,62.40%,53.70%,41.40%,5.80%,9.00%
+Indian River,Georgetown Elem,Traditional,Elem,54.20%,41.70%,54.50%,35.80%,17.80%
+Indian River,Georgetown Middle,Traditional,Middle,48.70%,34.30%,44.40%,6.50%,14.60%
+Indian River,Indian River High,Traditional,High,60.50%,27.00%,27.80%,2.20%,16.60%
+Indian River,John Clayton Elem,Traditional,Elem,60.00%,51.00%,58.50%,22.60%,20.90%
+Indian River,Long Neck Elem,Traditional,Elem,71.80%,64.60%,52.80%,7.70%,13.90%
+Indian River,Lord Baltimore Elem,Traditional,Elem,76.10%,63.50%,28.40%,2.10%,11.50%
+Indian River,Millsboro Middle,Traditional,Middle,53.80%,38.30%,41.00%,1.70%,14.60%
+Indian River,North Georgetown Elem,Traditional,Elem,41.80%,32.20%,52.50%,49.70%,13.40%
+Indian River,Selbyville Middle,Traditional,Middle,62.00%,37.20%,33.80%,1.50%,14.40%
+Indian River,Showell Elem,Traditional,Elem,55.40%,47.50%,46.00%,12.50%,16.70%
+Indian River,Southern Delaware School of the Arts,Traditional,,89.30%,76.10%,18.40%,3.10%,5.60%
+Indian River,Sussex Central High,Traditional,High,38.60%,15.80%,36.60%,8.40%,13.80%
+Kuumba Academy,Kuumba Academy,Charter,,44.60%,39.90%,58.00%,0.90%,6.30%
+Lake Forest,Lake Forest Central Elem,Traditional,Elem,59.40%,49.50%,44.80%,2.30%,14.10%
+Lake Forest,Lake Forest East Elem,Traditional,Elem,65.50%,60.20%,52.00%,5.60%,9.50%
+Lake Forest,Lake Forest High,Traditional,High,61.60%,21.30%,35.00%,0.70%,13.60%
+Lake Forest,Lake Forest North Elem,Traditional,Elem,73.50%,65.80%,41.70%,1.00%,11.20%
+Lake Forest,Lake Forest South Elem,Traditional,Elem,62.60%,65.50%,55.00%,2.10%,14.80%
+Lake Forest,W T Chipman Middle,Traditional,Middle,51.70%,38.70%,39.20%,0.70%,17.60%
+Laurel,Dunbar Elem,Traditional,Elem,,,63.20%,6.80%,7.30%
+Laurel,Laurel  High,Traditional,High,46.00%,5.60%,44.80%,3.00%,21.10%
+Laurel,Laurel Intermediate Middle,Traditional,Middle,28.80%,14.10%,51.00%,2.70%,15.90%
+Laurel,North Laurel Elem,Traditional,Elem,35.40%,33.60%,55.70%,10.20%,13.80%
+Milford,Banneker Elem,Traditional,Elem,61.00%,55.10%,52.00%,14.50%,14.70%
+Milford,Central Academy,Traditional,,46.60%,36.20%,41.30%,4.50%,14.10%
+Milford,Milford High,Traditional,High,43.10%,19.40%,32.80%,5.30%,13.10%
+Milford,Mispillion Elem,Traditional,Elem,47.40%,38.70%,52.20%,11.90%,10.70%
+Milford,Ross Elem,Traditional,Elem,55.50%,44.30%,47.70%,15.90%,11.80%
+Montessori Academy,Montessori Academy,Charter,,57.40%,41.10%,10.00%,1.80%,5.40%
+MOT Charter,MOT Charter,Charter,,75.40%,71.10%,5.90%,1.60%,6.10%
+Moyer Academy,Moyer Academy,Charter,,8.30%,1.40%,73.10%,2.40%,29.80%
+NCC VoTech,Delcastle Tech High,VoTech,High,54.60%,17.70%,29.20%,4.80%,14.40%
+NCC VoTech,Hodgson VoTech High,VoTech,High,39.20%,10.20%,23.80%,2.60%,11.90%
+NCC VoTech,Howard HS of Tech,VoTech,High,53.60%,13.30%,43.40%,2.90%,9.80%
+NCC VoTech,St. Georges HS of Tech,VoTech,High,57.30%,19.20%,11.60%,0.80%,12.50%
+Newark Charter,Newark Charter,Charter,,93.10%,84.10%,7.20%,2.50%,5.60%
+Odyssey Charter,Odyssey Charter,Charter,,77.70%,69.50%,17.90%,0.40%,4.40%
+Polytech,POLYTECH High,VoTech,High,77.80%,29.80%,15.70%,0.30%,9.10%
+Positive Outcomes,Positive Outcomes,Charter,,15.70%,2.00%,31.70%,0.00%,65.90%
+Prestige Academy,Prestige Academy,Charter,,17.60%,13.40%,58.10%,1.20%,22.00%
+Providence Creek,Providence Creek,Charter,,66.00%,43.30%,18.30%,0.60%,5.10%
+Reach Academy,Reach Academy,Charter,,31.20%,17.00%,55.20%,1.60%,6.40%
+Red Clay,A I duPont High,Traditional,High,39.20%,16.10%,33.50%,6.20%,14.60%
+Red Clay,A I duPont Middle,Traditional,Middle,14.00%,9.50%,61.50%,15.60%,18.90%
+Red Clay,Baltz Elem,Traditional,Elem,27.20%,17.00%,58.10%,29.50%,7.40%
+Red Clay,Brandywine Springs,Traditional,,73.10%,63.90%,9.00%,1.00%,7.80%
+Red Clay,Calloway School of the Arts,Traditional,High,79.30%,55.50%,6.80%,0.20%,2.20%
+Red Clay,Charter School of Wilmington,Traditional,High,97.50%,96.30%,2.30%,0.10%,0.20%
+Red Clay,Conrad Schools of Science,Traditional,Middle,54.90%,55.40%,14.30%,8.20%,3.20%
+Red Clay,Delaware College Preparatory Academy,Traditional,,5.80%,7.50%,77.80%,0.50%,2.50%
+Red Clay,Delaware Military Academy,Traditional,High,54.00%,27.60%,6.90%,0.20%,3.00%
+Red Clay,Dickinson High,Traditional,High,39.70%,13.80%,41.30%,7.80%,19.40%
+Red Clay,Forest Oak Elem,Traditional,Elem,47.10%,45.60%,37.20%,9.80%,5.90%
+Red Clay,H B duPont Middle,Traditional,Middle,49.00%,39.10%,36.70%,4.00%,13.00%
+Red Clay,Heritage Elem,Traditional,Elem,64.10%,43.10%,22.10%,2.80%,6.90%
+Red Clay,Highlands Elem,Traditional,Elem,29.50%,17.90%,65.20%,11.10%,12.50%
+Red Clay,Lewis Dual Language Elem,Traditional,Elem,30.90%,26.00%,73.20%,59.00%,7.00%
+Red Clay,Linden Hill Elem,Traditional,Elem,77.60%,72.40%,9.90%,11.50%,5.10%
+Red Clay,Marbrook Elem,Traditional,Elem,38.10%,26.80%,51.40%,48.20%,9.50%
+Red Clay,McKean High,Traditional,High,25.30%,2.70%,42.80%,7.00%,20.40%
+Red Clay,Mote Elem,Traditional,Elem,38.20%,25.40%,52.20%,45.10%,7.10%
+Red Clay,North Star Elem,Traditional,Elem,87.50%,77.10%,3.80%,5.30%,3.80%
+Red Clay,Richardson Park Elem,Traditional,Elem,32.80%,18.30%,61.40%,13.40%,10.90%
+Red Clay,Richey Elem,Traditional,Elem,44.40%,34.50%,39.30%,6.70%,9.40%
+Red Clay,Shortlidge Elem,Traditional,Elem,20.90%,15.70%,81.00%,0.60%,14.90%
+Red Clay,Skyline Middle,Traditional,Middle,57.70%,39.50%,27.60%,2.50%,9.80%
+Red Clay,Stanton Middle,Traditional,Middle,18.20%,13.40%,49.50%,7.80%,16.60%
+Red Clay,Warner Elem,Traditional,Elem,13.40%,10.60%,82.60%,5.10%,14.20%
+Seaford,Blades Elem,Traditional,Elem,44.80%,34.90%,62.40%,16.30%,13.00%
+Seaford,Frederick Douglass Elem,Traditional,Elem,42.60%,35.10%,57.90%,15.30%,22.00%
+Seaford,Seaford Central Elem,Traditional,Elem,48.50%,45.00%,42.50%,8.10%,17.70%
+Seaford,Seaford High,Traditional,High,24.80%,4.30%,44.10%,6.50%,17.70%
+Seaford,Seaford Middle,Traditional,Middle,35.10%,21.30%,52.20%,5.70%,20.60%
+Seaford,West Seaford Elem,Traditional,Elem,29.20%,20.70%,65.30%,17.60%,9.80%
+Smyrna,Clayton Elem,Traditional,Elem,68.70%,61.90%,29.90%,1.30%,9.30%
+Smyrna,Clayton Intermediate School,Traditional,Middle,59.50%,54.90%,21.70%,0.60%,10.50%
+Smyrna,J Bassett Moore School,Traditional,,51.30%,36.80%,36.00%,0.50%,20.60%
+Smyrna,North Smyrna Elem,Traditional,Elem,46.90%,39.10%,41.60%,2.80%,27.00%
+Smyrna,Smyrna Elem,Traditional,Elem,61.90%,53.60%,30.10%,2.50%,11.30%
+Smyrna,Smyrna High,Traditional,High,37.50%,14.20%,23.10%,0.70%,13.90%
+Smyrna,Smyrna Middle,Traditional,Middle,55.20%,33.40%,25.60%,0.30%,16.40%
+Smyrna,Sunnyside Elem,Traditional,Elem,76.40%,63.70%,21.60%,1.70%,8.00%
+Sussex Academy,Sussex Academy,Charter,,95.60%,73.90%,7.80%,0.50%,3.60%
+Sussex Tech,Sussex Tech High,VoTech,High,73.30%,36.00%,19.60%,0.40%,6.90%
+Thomas Edison Charter,Thomas Edison Charter,Charter,,33.70%,20.90%,76.20%,0.40%,7.10%
+Woodbridge,Phillis Wheatley Elem,Traditional,Elem,42.00%,41.50%,50.70%,12.00%,9.50%
+Woodbridge,Woodbridge High,Traditional,High,13.30%,8.00%,43.10%,3.80%,18.20%
+Woodbridge,Woodbridge Middle,Traditional,Middle,30.60%,21.40%,52.30%,3.80%,14.50%
