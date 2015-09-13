@@ -139,18 +139,18 @@ NCC VoTech,St. Georges HS of Tech,VoTech,No,No,Yes,57.30%,19.20%,11.60%,0.80%,12
 Newark Charter,Newark Charter,Charter,Yes,Yes,Yes,93.10%,84.10%,7.20%,2.50%,5.60%
 Odyssey Charter,Odyssey Charter,Charter,Yes,Yes,No,77.70%,69.50%,17.90%,0.40%,4.40%
 Polytech,POLYTECH High,VoTech,No,No,Yes,77.80%,29.80%,15.70%,0.30%,9.10%
-Positive Outcomes,Positive Outcomes,Charter,No,No,No,15.70%,2.00%,31.70%,0.00%,65.90%
+Positive Outcomes,Positive Outcomes,Charter,No,Yes,Yes,15.70%,2.00%,31.70%,0.00%,65.90%
 Prestige Academy,Prestige Academy,Charter,Yes,Yes,No,17.60%,13.40%,58.10%,1.20%,22.00%
 Providence Creek,Providence Creek,Charter,Yes,Yes,No,66.00%,43.30%,18.30%,0.60%,5.10%
 Reach Academy,Reach Academy,Charter,Yes,Yes,No,31.20%,17.00%,55.20%,1.60%,6.40%
 Red Clay,A I duPont High,Traditional,No,No,Yes,39.20%,16.10%,33.50%,6.20%,14.60%
 Red Clay,A I duPont Middle,Traditional,No,Yes,No,14.00%,9.50%,61.50%,15.60%,18.90%
 Red Clay,Baltz Elem,Traditional,Yes,No,No,27.20%,17.00%,58.10%,29.50%,7.40%
-Red Clay,Brandywine Springs,Traditional,No,No,No,73.10%,63.90%,9.00%,1.00%,7.80%
+Red Clay,Brandywine Springs,Traditional,Yes,No,No,73.10%,63.90%,9.00%,1.00%,7.80%
 Red Clay,Calloway School of the Arts,Traditional,No,No,Yes,79.30%,55.50%,6.80%,0.20%,2.20%
 Red Clay,Charter School of Wilmington,Traditional,No,No,Yes,97.50%,96.30%,2.30%,0.10%,0.20%
 Red Clay,Conrad Schools of Science,Traditional,No,Yes,No,54.90%,55.40%,14.30%,8.20%,3.20%
-Red Clay,Delaware College Preparatory Academy,Traditional,No,No,No,5.80%,7.50%,77.80%,0.50%,2.50%
+Red Clay,Delaware College Preparatory Academy,Traditional,Yes,No,No,5.80%,7.50%,77.80%,0.50%,2.50%
 Red Clay,Delaware Military Academy,Traditional,No,No,Yes,54.00%,27.60%,6.90%,0.20%,3.00%
 Red Clay,Dickinson High,Traditional,No,No,Yes,39.70%,13.80%,41.30%,7.80%,19.40%
 Red Clay,Forest Oak Elem,Traditional,Yes,No,No,47.10%,45.60%,37.20%,9.80%,5.90%
@@ -177,7 +177,7 @@ Seaford,Seaford Middle,Traditional,No,Yes,No,35.10%,21.30%,52.20%,5.70%,20.60%
 Seaford,West Seaford Elem,Traditional,Yes,No,No,29.20%,20.70%,65.30%,17.60%,9.80%
 Smyrna,Clayton Elem,Traditional,Yes,No,No,68.70%,61.90%,29.90%,1.30%,9.30%
 Smyrna,Clayton Intermediate School,Traditional,No,Yes,No,59.50%,54.90%,21.70%,0.60%,10.50%
-Smyrna,J Bassett Moore School,Traditional,No,No,No,51.30%,36.80%,36.00%,0.50%,20.60%
+Smyrna,J Bassett Moore School,Traditional,No,Yes,No,51.30%,36.80%,36.00%,0.50%,20.60%
 Smyrna,North Smyrna Elem,Traditional,Yes,No,No,46.90%,39.10%,41.60%,2.80%,27.00%
 Smyrna,Smyrna Elem,Traditional,Yes,No,No,61.90%,53.60%,30.10%,2.50%,11.30%
 Smyrna,Smyrna High,Traditional,No,No,Yes,37.50%,14.20%,23.10%,0.70%,13.90%
